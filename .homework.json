@@ -1,0 +1,19 @@
+{
+    "name": "time_entry_data_structure",
+    "version": "1.0.0",
+    "title": "Time Entry Data Structure",
+    "description": "Create a data structure diagram for a web app that stores developer time entries.",
+    "difficultyModes": [
+        "Normal",
+        "Hard",
+        "Nightmare"
+    ],
+    "keywords": [
+        "ERD",
+        "Databases"
+        "Database Design",
+        "Migrations",
+        "ActiveRecord",
+        "Ruby"
+    ]
+}
